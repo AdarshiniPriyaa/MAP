@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/pic1"
+            android:title="@string/home" />
+
+    </group>
+
+    <item android:title="REGISTER">
+        <menu>
+            <item
+                android:id="@+id/for1"
+                android:icon="@drawable/pic1"
+                android:title="BIDDER" />
+            <item
+                android:id="@+id/du1"
+                android:icon="@drawable/pic1"
+                android:title="SELLER" />
+            <item
+                android:id="@+id/jap"
+                android:icon="@drawable/pic1"
+                android:title="ACHIEVEMENTS" />
+            <item
+                android:id="@+id/mul1"
+                android:icon="@drawable/pic1"
+                android:title="HELP" />
+            <item
+                android:id="@+id/rev"
+                android:icon="@drawable/pic1"
+                android:title="CONTACT US" />
+
+        </menu>
+    </item>
+
+
+
+</menu>

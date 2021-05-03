@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AUCTION TOWN</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">HOME</string>
+    <string name="auction_methos">AUCTION METHOS</string>
+    <string name="forward_auction">FORWARD AUCTION</string>
+    <string name="dutch_auction">DUTCH AUCTION</string>
+    <string name="japnese_auction">JAPNESE AUCTION</string>
+    <string name="multi_lot_auction">MULTI-LOT AUCTION</string>
+    <string name="reverse_auction">REVERSE AUCTION</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">SHARE</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="auction_methods">AUCTION METHODS</string>
+
+
+
+    <string name="auction">AUCTION</string>
+    <string name="welcome_to_our_town">WELCOME TO OUR TOWN</string>
+    <string name="admin_login">ADMIN LOGIN</string>
+    <string name="seller_s_login">SELLER\'S LOGIN</string>
+    <string name="bidders_s_login">BIDDERS\'S LOGIN</string>
+    <string name="user_name">USER NAME</string>
+
+    <string name="bidder_s_login">BIDDER\'S LOGIN</string>
+    <string name="select_a_category">SELECT A CATEGORY</string>
+    <string name="bidding_field">BIDDING FIELD</string>
+    <string name="error_message">ERROR</string>
+    <string name="error_valid_email_password">ENTER VALID EMAIL AND PASSWORD</string>
+    <string name="error_password_match">PASSWORD DOES NOT MATCH</string>
+    <string name="success_message">SUCCESS MESSAGE</string>
+    <string name="error_email_exists">ERROR IN EMAIL</string>
+    <string name="email">EMAIL</string>
+
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="register">REGISTER</string>
+    <string name="a_member">A MEMBER</string>
+    <string name="password1">PASSWORD</string>
+    <string name="password2">PASSWORD</string>
+    <string name="password3">PASSWORD</string>
+    <string name="registration_form">REGISTRATION FORM</string>
+
+    <string name="password12">PASSWORD</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="name">NAME</string>
+</resources>

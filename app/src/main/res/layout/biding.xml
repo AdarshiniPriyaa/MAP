@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/map"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="50dp"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:text="THE BEST PRICE FOR THE BEST EQUIPMENT :)"
+            android:textColor="#ffffff"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="256dp"
+            android:layout_height="256dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/img1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#ffffff"
+        android:text="LAPTOPS"
+        android:textSize="25dp"
+        android:layout_marginLeft="60dp"
+        android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="290dp"
+            android:layout_height="190dp"
+            android:layout_marginStart="10sp"
+            android:layout_marginLeft="50sp"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/image2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#ffffff"
+            android:text="CAMERAS"
+            android:textSize="25dp"
+            android:layout_marginLeft="60sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="894dp"
+            android:layout_height="190dp"
+            android:layout_marginStart="10sp"
+            android:layout_marginLeft="50sp"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/image3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#ffffff"
+            android:text="BLUETOOTHS"
+            android:textSize="25dp"
+            android:layout_marginLeft="60sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="290dp"
+            android:layout_height="190dp"
+            android:layout_marginStart="10sp"
+            android:layout_marginLeft="50sp"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/image6" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#ffffff"
+            android:text="POWERBANK"
+            android:textSize="25dp"
+            android:layout_marginLeft="60sp"
+            android:textStyle="bold" />
+
+
+
+    </TableLayout>
+
+</ScrollView>

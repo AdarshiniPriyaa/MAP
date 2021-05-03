@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "217977797649",
+    "firebase_url": "https://auctiontown2.firebaseio.com",
+    "project_id": "auctiontown2",
+    "storage_bucket": "auctiontown2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217977797649:android:80eb3bdf4337c2c8",
+        "android_client_info": {
+          "package_name": "com.example.auctiontown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217977797649-6a9ks8k9scqcmlv0bla5e2ch7ajdh1jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auctiontown",
+            "certificate_hash": "d69e969afc4f217fc07ff08caf39880f56a594c3"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01iahMbySTZ9kmSTf347PqEQEaBZtYJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217977797649-a1mjbimm39g9901mgfdsjbk670frkpgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
